@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Weekly Fullstack Course Projects**
 
-- 🌱 I’m currently learning **Back-end Development with Django**
+- 🌱 I’m currently reviewing **React and Node**
 
 - 👯 I’m looking to collaborate on **Technological Development of Planet Earth**
  
