@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou trabalhando em **Projetos de Portfólio utilizando React**
 
-- 🌱 Atualmente estou revisando **React**
+- 🌱 Hoje estou estudando e revisando **React**
 
 - 👯 Busco colaborar no **Desenvolvimento Tecnológico do Planeta Terra**
  
