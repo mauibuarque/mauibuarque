@@ -3,7 +3,7 @@
 
 <hr></hr>
 
-- 🔭 Atualmente estou trabalhando em **Projetos de Portfólio utilizando React**
+- 🔭 Atualmente estou trabalhando em **Projetos de Portfólio utilizando React e Node**
 
 - 🌱 Hoje estou estudando e revisando **React**
 
